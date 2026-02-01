@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="24512" systemVersion="25C56" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="DeviceEntity" representedClassName="DeviceEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="ip" optional="YES" attributeType="String"/>
+        <attribute name="lastSeen" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="name" attributeType="String"/>
+        <attribute name="reachable" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
+</model>
